@@ -13,10 +13,10 @@
 	</parent>
 
 	<groupId>br.com.fiap</groupId>
-	<artifactId>WinerySys</artifactId>
+	<artifactId>Winery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>WinerySys</name>
+	<name>Winery</name>
 	<description>Winery</description>
 
 	<properties>
